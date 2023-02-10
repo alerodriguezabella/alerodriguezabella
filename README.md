@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm Alejandra, originally from Venezuela  and currently based in Amsterdam, The Netherlands 
+- Industrial Engineer turned Web Developer who really enjoys learning new things
+
 <!--
 **alerodriguezabella/alerodriguezabella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
